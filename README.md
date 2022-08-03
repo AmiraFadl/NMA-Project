@@ -3,7 +3,7 @@
 This repo contains code for the NMA 2022 fMRI project by the " The Nomads" group from Injera pod. 
 
 > **Warning**
-> You can now open the notebooks by opening them in Github (click above) and then use the "Open in Colab" link
+> You can now open the notebook by opening it in Github (click above) and then use the "Open in Colab" link.
 
 
 ## Abstract: 
