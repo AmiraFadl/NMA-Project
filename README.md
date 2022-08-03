@@ -13,7 +13,7 @@ Animacy is a mid-level visual feature processed by the visual cortex and is prim
 Kay natural images dataset 
 * [Dataset overview](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/projects/fMRI/load_kay_images.ipynb)
 
-## Summary
+## Summary:
 This group project was completed during Neuromatch 2022 (July 11-29). See `project-summary.pdf` for details!
 
 ## Team Members: 
