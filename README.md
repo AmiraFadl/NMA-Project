@@ -1,8 +1,6 @@
 # Neuromatch Academy - Computational Neuroscience 2022 final project
-This repo contains code for the NMA 2022 fMRI project by the " The Nomads" group from Injera pod. 
 
-#Team Members: 
-Yazan Ziad, Amira K. Fadl, Yasmine Guenni, Ziad A. Gamil, Esraa R. Moawad
+This repo contains code for the NMA 2022 fMRI project by the " The Nomads" group from Injera pod. 
 
 > **Warning**
 > You can now open the notebooks by opening them in Github (click above) and then use the "Open in Colab" link
@@ -17,3 +15,8 @@ Kay natural images dataset
 
 ### Summary
 This group project was completed during Neuromatch 2022 (July 11-29). See `project-summary.pdf` for details!
+
+##Team Members: 
+Yazan Ziad, Amira K. Fadl, Yasmine Guenni, Ziad A. Gamil, Esraa R. Moawad
+
+
