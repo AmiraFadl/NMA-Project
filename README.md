@@ -1,4 +1,4 @@
-# Neuromatch Academy - Computational Neuroscience 2022 - final project. 
+# Neuromatch Academy - Computational Neuroscience 2022 - Final Project. 
 
 This repo contains code for the NMA 2022 fMRI project by the " The Nomads" group from Injera pod. 
 
