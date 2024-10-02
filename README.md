@@ -17,6 +17,6 @@ Kay natural images dataset
 This group project was completed during Neuromatch 2022 (July 11-29). See `project-summary.pdf` for details!
 
 ## Team Members: 
-Yazan Ziad, Amira K. Fadl, Yasmine Guenni, Ziad A. Gamil, Esraa R. Moawad
+Amira Fadl, Yazan Ziad, Yasmine Guenni, Ziad A. Gamil, Esraa R. Moawad
 
 
